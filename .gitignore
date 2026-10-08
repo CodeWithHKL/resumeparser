@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Secrets / local config
+.env
+
+# Resume data (personal information) - supply your own folders to client.py
+Resume/
+INFORMATION-TECHNOLOGY/
+ENGINEERING/
+
+# OS / editor
+desktop.ini
+.DS_Store
+.idea/
+.vscode/

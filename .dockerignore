@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.git/
+.env
+tests/
+Resume/
+INFORMATION-TECHNOLOGY/
+ENGINEERING/
+client.py
+*.md
+requirements-dev.txt

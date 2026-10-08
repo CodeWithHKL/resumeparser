@@ -1,0 +1,9 @@
+services:
+  resume-parser:
+    build: .
+    ports:
+      - "127.0.0.1:8000:8000"   # localhost only
+    environment:
+      # WORKERS: 2
+      PORT: "8000"
+    restart: unless-stopped

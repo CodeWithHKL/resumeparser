@@ -1,0 +1,4 @@
+-r requirements.txt
+pytest>=8.0
+httpx>=0.27          # required by FastAPI's TestClient
+reportlab>=4.0       # generates sample PDFs for tests
