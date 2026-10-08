@@ -8,10 +8,6 @@ venv/
 # Secrets / local config
 .env
 
-# Resume data (personal information) - supply your own folders to client.py
-Resume/
-INFORMATION-TECHNOLOGY/
-ENGINEERING/
 
 # OS / editor
 desktop.ini
